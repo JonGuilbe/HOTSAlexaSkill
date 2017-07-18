@@ -65,3 +65,5 @@ Zagara
 Zarya
 Zeratul
 Zul%27jin
+Cho
+Gall
