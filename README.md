@@ -3,4 +3,8 @@ HOTS Skill for Alexa that can currently tell users about the best build for a he
 
 Other functionality planned soon.
 
-Will also find a better way to scrape this information from HOTSLogs!
+To-do:
+
+-Automate updateing the JSON.
+
+-Add Winrates & Specific talent-levels.
